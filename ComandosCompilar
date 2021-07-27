@@ -1,0 +1,9 @@
+norminette -R ft_putchar.c
+
+gcc -Wall -Wextra -Werror *.c && ./a.out
+
+
+para compilar sem a norma
+cc <nomedoarquivo.c> && ./a.out
+
+para compilar e rodar com arquivos separados
